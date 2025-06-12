@@ -7,3 +7,9 @@
 
 ## ⚡ GitHub Stats
 ![Valmir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmrsilva&show_icons=true&theme=dark)
+
+
+
+
+
+
